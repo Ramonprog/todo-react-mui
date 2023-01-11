@@ -3,13 +3,13 @@ import { Box } from "@mui/system";
 
 export const CustomFooter: any = styled(Box)`
   background-color: #282c34;
-  height: 150px;
+  height: 80px;
   display: flex;
   align-items: center;
   justify-content: center;
   color: #fff;
   width: 100%;
-  position: absolute;
+  position: static;
   bottom: 0;
  
 
