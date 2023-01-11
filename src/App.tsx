@@ -58,6 +58,7 @@ function App() {
           textAlign: "center",
           marginTop: "100px",
           p: "20px",
+          position: "relative",
         }}
       >
         <div>
