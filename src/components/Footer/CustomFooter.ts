@@ -9,7 +9,7 @@ export const CustomFooter: any = styled(Box)`
   justify-content: center;
   color: #fff;
   width: 100%;
-  position: static;
+  position: initial;
   bottom: 0;
  
 
