@@ -54,7 +54,7 @@ function App() {
       <Header />
       <Box
         sx={{
-          minHeight: "60vh",
+          minHeight: "100vh",
           textAlign: "center",
           marginTop: "100px",
           p: "20px",
