@@ -9,8 +9,7 @@ export const CustomFooter: any = styled(Box)`
   justify-content: center;
   color: #fff;
   width: 100%;
-  position: initial;
-  bottom: 0;
+ 
  
 
   & footer p span {
